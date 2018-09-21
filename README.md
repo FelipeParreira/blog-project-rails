@@ -14,4 +14,6 @@ $ gem install rails
 
 Then, change to the project directory, start the server (``` $ rails server ```) and go to http://localhost:3000 in your browser. 
 
+Disclaimer: Iterations 5 and 6 (I5 & I6) haven't been implemented yet.
+
 From The Odin Project's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails)
